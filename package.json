@@ -84,7 +84,7 @@
     "@liquality/terra-swap-find-provider": "1.11.2",
     "@liquality/terra-swap-provider": "1.11.2",
     "@liquality/terra-wallet-provider": "1.11.2",
-    "@sentry/node": "^6.13.2",
+    "@sentry/node": "^6.19.7",
     "agenda": "^4.2.1",
     "agendash": "^2.1.1",
     "axios": "^0.22.0",
