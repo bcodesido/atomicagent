@@ -50,7 +50,7 @@
     "@liquality/bitcoin-esplora-swap-find-provider": "1.11.2",
     "@liquality/bitcoin-fee-api-provider": "1.11.2",
     "@liquality/bitcoin-js-wallet-provider": "1.11.2",
-    "@liquality/bitcoin-networks": "1.11.2",
+    "@liquality/bitcoin-networks": "1.13.12",
     "@liquality/bitcoin-node-wallet-provider": "1.11.2",
     "@liquality/bitcoin-rpc-fee-provider": "1.11.2",
     "@liquality/bitcoin-rpc-provider": "1.11.2",
