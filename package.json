@@ -104,7 +104,7 @@
     "http-errors": "^1.8.0",
     "lodash": "^4.17.21",
     "mongoose": "^6.0.8",
-    "node-vault": "^0.9.22",
+    "node-vault": "^0.10.0",
     "semver": "^7.3.5",
     "standard-error": "^1.1.0",
     "string-argv": "^0.3.1",
